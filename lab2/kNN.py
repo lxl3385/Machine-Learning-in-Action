@@ -1,5 +1,5 @@
 #-*- coding: utf-8 -*-
-
+""" this is test kNN Method"""
 from numpy import *
 import operator
 
