@@ -1,5 +1,5 @@
-#!/usr/bin
-""" this is testDco"""
+#! ~/mainML/
+"""  test the funcation of for and while """
 # -*- coding: utf-8 -*-
 
 amount = float(input("Enter amount: "))   
@@ -12,3 +12,4 @@ while year <= period:
     print("Year {} Rs. {:.2f}".format(year, value))
     amount = value
     year = year + 1
+
