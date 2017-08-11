@@ -2,7 +2,7 @@
 """  test the Aliyun API server  """
 # -*- coding: utf-8 -*-
 
-import  urllib
+import urllib
 import urllib2
 import sys 
 
@@ -10,7 +10,7 @@ import sys
 host = 'http://jshmgsdmfb.market.alicloudapi.com'
 path = '/shouji/query'
 method = 'GET'
-appcode = 'l123'
+appcode = 'f1716bb3e5074e08b97f761d2288a492'
 querys = 'shouji=13456755448'
 bodys = {}
 url = host + path + '?' + querys
