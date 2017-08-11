@@ -1,7 +1,7 @@
 #! ~/mainML/
 """ test the funcation of avg"""
 # -*- coding: utf-8 -*-
-
+import math
 N = 5
 sum = 0
 count = 0
